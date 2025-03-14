@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! Welcome to my Github profile</h2>
 
-<img align="right" height="150" src="https://nusaibah1.github.io/portfolioImages/images/uwu.gif"  />
+
 
 ###
 
